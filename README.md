@@ -35,6 +35,13 @@ F1-Score
 
 Logistic Regression achieved higher accuracy compared to Naive Bayes on the given dataset.
 
+## Results
+
+Logistic Regression Accuracy: 98.96%  
+Naive Bayes Accuracy: 95.26%
+
+Logistic Regression outperformed Naive Bayes on the given dataset.
+
 ## How to Run
 
 Clone the repository:
